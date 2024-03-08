@@ -29,8 +29,8 @@ SECRET_KEY =\
 DEBUG = True
 
 ALLOWED_HOSTS = ['localhost', 'https://jonathanjuno-8000.\
-theiadockernext-0-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai']
-CSRF_TRUSTED_ORIGINS = ['https://jonathanjuno-8000.theiadockernext-0-labs-\
+theiadockernext-1-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai']
+CSRF_TRUSTED_ORIGINS = ['https://jonathanjuno-8000.theiadockernext-1-labs-\
 prod-theiak8s-4-tor01.proxy.cognitiveclass.ai', 'http://127.0.0.1:8000/']
 
 REST_FRAMEWORK = {
